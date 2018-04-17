@@ -1,2 +1,2 @@
-# Devslopes Courses
-Here is my devslopes courses I have finnished
+# SoloLearn
+Here is my SoloLearn certificates
